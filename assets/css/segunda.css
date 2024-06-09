@@ -1,0 +1,23 @@
+*{ 
+    text-align: center;
+}
+.stickers{
+    display: flex;
+    justify-content:space-around ;
+    align-items: center;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+input{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center
+
+}
+.boton{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
